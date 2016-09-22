@@ -203,3 +203,15 @@ a.social:hover {
   }
 
 }
+
+h3 {
+  color: maroon;
+  letter-spacing: .87px;
+}
+
+.card-title {
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 50px;
+}
